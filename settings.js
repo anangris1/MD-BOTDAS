@@ -19,9 +19,9 @@ global.antilink = false;
 global.antiwame = false;
 global.autodltt = false;
 global.autosticker = false;
-global.ownerNomor = '6285768966412';
+global.ownerNomor = '6287875438029';
 global.ownerName = 'dasx000';
-global.ownerNumber = '6285768966412@s.whatsapp.net';
+global.ownerNumber = '6287875438029@s.whatsapp.net';
 global.cek1 = [
   '1',
   '2',
